@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{10164148-2725-55f2-4aaa-a24728daa733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeShare.Runtime", "NativeShare.Runtime.csproj", "{d3a9af15-0e66-f57f-a7a4-816d38ac4f6c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Scripts", "Boxophobic.Utils.Scripts.csproj", "{8265e4c1-e8a1-9357-dec0-fc67dd861161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Editor", "Boxophobic.Utils.Editor.csproj", "{def859a3-b314-a164-d715-888e8135d49a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.SkyboxCubemapExtended.Editor", "Boxophobic.SkyboxCubemapExtended.Editor.csproj", "{f707de04-337a-99c2-9fc3-c3763f38cbb0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeShare.Editor", "NativeShare.Editor.csproj", "{a631dc17-5ac3-90f1-c58a-3a5cb88292c2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10164148-2725-55f2-4aaa-a24728daa733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10164148-2725-55f2-4aaa-a24728daa733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d3a9af15-0e66-f57f-a7a4-816d38ac4f6c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d3a9af15-0e66-f57f-a7a4-816d38ac4f6c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8265e4c1-e8a1-9357-dec0-fc67dd861161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8265e4c1-e8a1-9357-dec0-fc67dd861161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{def859a3-b314-a164-d715-888e8135d49a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{def859a3-b314-a164-d715-888e8135d49a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f707de04-337a-99c2-9fc3-c3763f38cbb0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f707de04-337a-99c2-9fc3-c3763f38cbb0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a631dc17-5ac3-90f1-c58a-3a5cb88292c2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a631dc17-5ac3-90f1-c58a-3a5cb88292c2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
